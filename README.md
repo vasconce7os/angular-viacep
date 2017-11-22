@@ -9,6 +9,9 @@
 ### Install from bower
     bower install angular-viacep --save
 
+### Install from npm
+    npm install angular-viacep --save
+
 ### Include this line in your index.html
     <script src="bower_components/angular-viacep/dist/angular-viacep.min.js"></script>
 
